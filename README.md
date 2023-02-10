@@ -1,1 +1,1 @@
-# react-query-zustand_fazt
+# react-query-zustand_fa
